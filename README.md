@@ -8,9 +8,9 @@ In this wiki we will document the overall process and aims in the project.
 
 # Aims
 
-##Aim 1
-##Aim 2
-##Aim 2
+## Aim 1
+## Aim 2
+## Aim 2
 
 # Paper Suggestions
 
