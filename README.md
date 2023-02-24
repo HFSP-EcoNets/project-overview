@@ -39,6 +39,15 @@ Lastly We will investigate the multilayer effect of HGT and competition on commu
 * Chiara -
 
 * Johannes -
+I am a postdoctoral researcher from The Netherlands who is interested in unveiling mechanisms that facilitate long-term stability of ecological systems.
+In particular, I want to know how organisms respond to changes in the environment and how these responses subsequently affect ecological network dynamics.
+Within the context of this project I will therefore be focusing on modeling the population dynamics of the microbiomes.
+I will implement efficient simulations to explore the space of parameters that influences the community dynamics.
+These explorations will then serve to define hypotheses to be tested empirically in the lab.
+Furthermore, I intend to write a cohesive set of scripts that faciliate large computer simulations on high performance computer clusters.
+This will make it easier for *all* members of this project to execute simulations and complex analyses, greatly enhancing the turnover rate of (simulation) experiments.
+Finally, I aim to apply my knowledge on open science to accomodate efficient workflows for storing, retrieving and analysing the data associated with this project.
+
 
 * Kaitlin -
 
