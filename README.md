@@ -38,7 +38,7 @@ Lastly We will investigate the multilayer effect of HGT and competition on commu
 
 * Chiara -
 
-* Johannes -
+* [Johannes](https://johannesnauta.com)  - 
 I am a postdoctoral researcher from The Netherlands who is interested in unveiling mechanisms that facilitate long-term stability of ecological systems.
 In particular, I want to know how organisms respond to changes in the environment and how these responses subsequently affect ecological network dynamics.
 Within the context of this project I will therefore be focusing on modeling the population dynamics of the microbiomes.
