@@ -57,3 +57,8 @@ Finally, I aim to apply my knowledge on open science to accomodate efficient wor
 
 
 ## Paper Suggestions
+
+- [N. Masuda, C.L. Vestergaard, 2022, "Gillespie algorithms for stochastic multiagent dynamics in populations and networks"](https://www.cambridge.org/core/elements/gillespie-algorithms-for-stochastic-multiagent-dynamics-in-populations-and-networks/DD6A40E1A11F3703E2807E35709B5542)  
+Very thorough book about Gillespie algorithms and their uses. Also includes approaches for speeding up or reducing the memory load for Gillespie algorithms.
+- [P.G. Fennel, _et al_., 2016, "Limitations of discrete-time approaches to continous-time contagion dynamics"](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.94.052125)  
+Concise paper in Phys. Rev. E about why the Gillespie algorithms (and similar event-based approaches) are useful.
